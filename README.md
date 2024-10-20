@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supermarius666&label=Profile%20views&color=0e75b6&style=flat" alt="supermarius666" /> </p>
 
-- 📄 I'm a Computer Engineering student. Currently I'm in my second year and I'm looking forward to learning new things! I'm intrested in AI, System Design, Linux, Assembly and more.
+- 📄 I'm a Computer Engineering student. Currently I'm in my third year and I'm looking forward to learning new things! I'm intrested in AI, System Design, Linux and Robotics.
   
-- 🌱 I’m currently learning **rabbitMQ && Docker**.
+- 🌱 I’m currently learning **ROS2**.
 
 - 📫 You can reach me here: **warius.dumitru@gmail.com**
 <p align="left">
