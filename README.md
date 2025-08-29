@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋!  I'm Marius.<br>I am a Computer Engineering student and I am working together with the Formula SAE team of my university. We are about to create a self-driving car capable of participating in various races!<br>I take care of the System Integration part and in particular I am using ROS2 to create communication between the various software components of the car.</h2>
+<h2 align="left">Hi 👋!  I'm Marius.<br>I am a Computer Engineering student.</h2>
 
 ###
 
