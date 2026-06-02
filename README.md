@@ -42,23 +42,3 @@
 *Also actively learning and experimenting with **Podman**!*
 
 ---
-
-### 📈 GitHub Analytics
-<div align="center">
-  <!-- I used the 'tokyonight' theme here for a cool, terminal-like aesthetic -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</div>
-
----
-
-### 🐍 Automation in Action
-<div align="center">
-  <p><i>Every DevOps engineer needs an automated pipeline. Here is my contribution graph being eaten by a snake, powered by GitHub Actions.</i></p>
-  <!-- NOTE: To make this work, you must set up the "snk" GitHub Action in your repository -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
